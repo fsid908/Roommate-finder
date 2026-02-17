@@ -86,6 +86,3 @@ LinkedIn - [www.linkedin.com/in/farhan-siddiqui-dev]
 Email - [fsid738@gmail.com]
 
 If you found this project helpful, consider giving it a star.
----
-
-⭐ If you found this project helpful, consider giving it a star.
