@@ -15,6 +15,19 @@
 
 ---
 
+## 📑 Table of Contents
+
+- [Features](#-features)
+- [Tech Stack](#-tech-stack)
+- [Project Structure](#-project-structure)
+- [Getting Started](#-getting-started)
+- [Environment Configuration](#️-environment-configuration)
+- [Contributing](#-contributing)
+- [License](#-license)
+- [Author](#-author)
+
+---
+
 ## ✨ Features
 
 - 👤 Create and manage user profiles
